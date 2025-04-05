@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/342dffaa-abe2-47d9-8d75-02cf9fe50581
+**URL**: https://cozybeansheaven.vercel.app
 
 **Use your preferred IDE**
 
